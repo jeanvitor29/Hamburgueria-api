@@ -1,0 +1,128 @@
+{
+    "Hamburgueres": [
+      {
+        "id": 1,
+        "nome": "X-Salada",
+        "imagem": "https://joaopaulolanches.com.br/wp-content/uploads/2020/07/burguer-1.png",
+        "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+        "preco": 8.5,
+        "categoria_id": 1
+        
+      },
+      {
+        "id": 2,
+        "nome": "X-Búrguer",
+        "imagem": "https://joaopaulolanches.com.br/wp-content/uploads/2020/07/burguer-1.png",
+        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+        "preco": 10.5,
+        "categoria_id": 1
+        
+      },
+      {
+        "id": 3,
+        "nome": "X-Bacon",
+        "imagem": "https://joaopaulolanches.com.br/wp-content/uploads/2020/07/burguer-1.png",
+        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+        "preco": 12.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "X-Tudo",
+        "imagem": "https://joaopaulolanches.com.br/wp-content/uploads/2020/07/burguer-1.png",
+        "descricao": "Pão, 2 bifes de hambúrguer 90g, 1 Ovo, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+        "preco": 14.5, 
+        "categoria_id": 1
+      } 
+    ],
+
+    
+    "Bebidas": [
+        {
+            "id": 1,
+            "nome": "Coca Cola 350ml",
+            "imagem": "https://bretas.vtexassets.com/arquivos/ids/161000/63360dd7539bb53eff762ba2.png?v=638000836937600000",
+            "descricao": "Coca-Cola Gelada!!",
+            "preco": 5.5,
+            "categoria_id": 2
+            
+        },
+        {
+            "id": 2,
+            "nome": "Guaravita 300 ml",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896326100349",
+            "descricao": "Guaravita Gelado!!",
+            "preco": 2.5,
+            "categoria_id": 2
+            
+        },
+        {
+            "id": 3,
+            "nome": "Convenção 350 ml",
+            "imagem": "https://static.lojadedoces.com.br//produto/1_603553_1_5606.png",
+            "descricao": "Convencao Gelado!!",
+            "preco": 3.5,
+            "categoria_id": 2
+        },
+        {
+            "id": 4,
+            "nome": "Água 500 ml",
+            "imagem": "https://ibassets.com.br/ib.item.image.big/b-1078636d4cc94c3a847a56ba73799fb8.png",
+            "descricao": "Água Gelada!!",
+            "preco": 3.0,
+            "categoria_id": 2
+        } 
+        ],
+      
+
+    "acompanhamento": [
+        {
+          "id": 1,
+          "nome": "Batata com bacon e cheddar",
+          "imagem": "https://pedimais.com.br/uploads/68/1625666719.png",
+          "descricao": "Batata crocante, com muito sabor",
+          "preco": 14.0,
+          "categoria_id": 3
+        },
+        {
+          "id": 2,
+          "nome": "Anéis de cebola",
+          "imagem": "https://americaalimentos.com.br/image/cache/catalog/ANeIS-DE-CEBOLA-600x600.png",
+          "descricao": "Anéis de cebola crocante, com muito sabor",
+          "preco": 12.0,
+          "categoria_id": 3
+        },
+        {
+          "id": 3,
+          "nome": "Nuggets",
+          "imagem": "https://s.cornershopapp.com/product-images/2012835.png?versionId=0u2swrItE.r_Lim4dTpaYm2fGzJIxRi0",
+          "descricao": "Nuggets crocante, com muito sabor",
+          "preco": 15.0,
+          "categoria_id": 3
+        },
+        {
+          "id": 4,
+          "nome": "Batata frita",
+          "imagem": "https://s3-sa-east-1.amazonaws.com/deliveryon-uploads/products/armazemimperial/46_5ed51096799d8.png",
+          "descricao": "Batata crocante, com muito sabor",
+          "preco": 9.0,
+          "categoria_id": 3
+        } 
+      ],
+    
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Hambúrgueres"
+      },
+      {
+        "id": 2,
+        "nome": "Bebidas"
+      },
+      {
+        "id": 3,
+        "nome": "Acompanhamento"
+      }
+      
+    ]
+  }

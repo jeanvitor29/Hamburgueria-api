@@ -7,7 +7,7 @@
 
 - Acesse o servidor local (http://localhost:3000/)
 - Acesse o servidor remoto (https://hamburgueria-iq6s.onrender.com)
-- Requisições get, post, put e delete (http://localhost:3000/)
+- Requisições get, post, put e delete (https://www.fabricadecodigo.com/json-server/)
 
 
 <h3 align="center">Ferramentas utilizadas:</h3>
